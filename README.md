@@ -1,4 +1,4 @@
-<h1>Android进程保活</h1>
+<h1>Android进程保活·1像素且透明Activity提升App进程优先级</h1>
 <h2>Android进程</h2>
 首先你要知道Android中的进程以及它的优先级，下面来说明它进程<br>
 <ol>
@@ -57,9 +57,6 @@
 本篇文章介绍的是进程第一种方式:
 <ul>
 	<li><font color="red">1像素且透明Activity提升App进程优先级</font></li>
-	<!--<li><font color="red">通过设置前台Service</font></li>-->
-	<!--<li><font color="red">Java层的双进程拉活</font></li>-->
-	
 </ul>
 <br><br>
 <h5><font color="red">1像素且透明Activity提升App进程优先级:</font></h5>
